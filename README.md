@@ -11,7 +11,7 @@ Follow these steps to install and run the script:
     First, clone the repository to your local machine using git. Open your terminal and run:
 
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/YUSU-Dev/sums-news-categories
     ```
 
 2. **Navigate to the project directory**
